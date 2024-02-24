@@ -1,4 +1,6 @@
 ### Hi there 👋
+Sutent in chemistry at EPFL 🇨🇭
+Contact : jonas.richard@epfl.ch
 
 <!--
 **jojorichard/jojorichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
